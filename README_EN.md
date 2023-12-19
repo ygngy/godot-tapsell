@@ -10,6 +10,9 @@
 With the help of this plugin, you can add [Tapsell](https://tapsell.ir) ads to games made with the [Godot](https://godotengine.org) game engine. For this, just download the zip file in the [Release](https://github.com/ygngy/godot-tapsell/releases) section and copy its content to the **android/plugins** folder. You can read how to use the Android plugin in Godot [here](https://docs.godotengine.org/en/stable/tutorials/plugins/android/android_plugin.html#loading-and-using-an-android-plugin).
 
 
+**This plugin is designed and tested for Godot version 3.5.1 and Tapsel Plus version 2.1.8 and may not work in other versions.**
+
+
 **This plugin only displays fullscreen ads i.e. Rewarded/Interstitial ads.**
 
 
