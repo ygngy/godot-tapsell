@@ -1,4 +1,4 @@
-# Godot game engine Android plugin for Tapsell Ads
+# Godot 3 game engine Android plugin for Tapsell Ads
 
 <br>
 

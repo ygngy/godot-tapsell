@@ -1,4 +1,4 @@
-# Godot game engine Android plugin for Tapsell Ads
+# Godot 3 game engine Android plugin for Tapsell Ads
 
 <br>
 
@@ -9,7 +9,7 @@
 
 <div dir="rtl">
 
-## افزونه موتور بازی سازی گودو برای نمایش تبلیغات تپسل
+## افزونه موتور بازی سازی گودو 3 برای نمایش تبلیغات تپسل
 
  
 این پلاگین امکان استفاده از تبلغات آنی و جایزه‌ای   [تپسل](https://tapsell.ir) را در موتور بازی سازی [گودو](https://godotengine.org) فراهم میکند.
